@@ -23,6 +23,6 @@ npm start
 
 **Ensure your backend/.env file contains the following keys:**
 ```bash
-PORT=5000
-MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/CampusEventHub
+PORT=6001
+MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/
 ---
