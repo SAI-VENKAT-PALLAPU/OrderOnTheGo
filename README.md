@@ -18,4 +18,11 @@ npm start
 ```
 ✓ App running on http://localhost:3000
 
+```
+# 🔑 Environment Configuration
+
+**Ensure your backend/.env file contains the following keys:**
+```bash
+PORT=5000
+MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/CampusEventHub
 ---
